@@ -10,3 +10,4 @@ Modificações autorizadas
 
 Algumas modificações no dev
 
+criando conflitos
