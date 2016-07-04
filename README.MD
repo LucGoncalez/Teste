@@ -7,3 +7,6 @@ Fazendo uns teste....
 E Mais alguma coisa
 
 Modificações autorizadas
+
+Algumas modificações no dev
+
