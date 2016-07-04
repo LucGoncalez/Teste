@@ -8,4 +8,7 @@ E Mais alguma coisa
 
 Modificações autorizadas
 
-Criando conflito
+Algumas modificações no dev
+
+Resolvendo conflitos
+
