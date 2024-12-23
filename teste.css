@@ -1,0 +1,11 @@
+h2 {
+  color: #f00;
+}
+
+.main-outer {
+  background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png) repeat scroll top left;
+}
+
+.tabs-inner .widget li a {
+  color: #00FF00;
+}
